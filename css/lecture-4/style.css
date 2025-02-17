@@ -1,0 +1,32 @@
+/* *{
+    font-size: 30px;
+    color: red;
+} */
+
+/* 1. element selector */
+span {
+    font-size: 30px;
+    color: green;
+}
+
+/* 2. Class Selector */
+
+.paragraph {
+    font-size: 20px;
+    font-weight: 800;
+    color: blueviolet;
+}
+
+/* 3. ID Selector */
+
+#container {
+    color: navy;
+}
+
+h1 {
+    color: #1aff00;       /* Color name */
+    
+    color: #ff0000;   /* HEX code */
+    color: rgb(255,0,0); /* RGB */
+    color: hsl(0, 100%, 50%); HSL
+}

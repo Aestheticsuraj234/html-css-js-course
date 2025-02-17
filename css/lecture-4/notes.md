@@ -167,21 +167,9 @@ nav > ul {
 }
 ```
 
-### (H) Adjacent Sibling Selector (`A + B`)
-Targets the immediate next sibling element.
-```css
-h1 + p {
-    font-size: 18px;
-}
-```
 
-### (I) General Sibling Selector (`A ~ B`)
-Targets all siblings after a specific element.
-```css
-h1 ~ p {
-    color: gray;
-}
-```
+
+
 
 ---
 ## 5. Basic Styling Properties
