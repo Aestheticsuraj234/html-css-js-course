@@ -107,3 +107,4 @@ HTML provides different types of lists to organize content.
 
 This concludes **Lecture 2** on HTML Lists, Images, Links, and Tables! 🚀
 
+[text](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
