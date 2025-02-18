@@ -1,0 +1,63 @@
+/* .box{
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 15px;
+    background-color: lightblue;
+} */
+
+/* .box1{
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 5px solid black;
+    background-color: brown;
+    box-sizing: content-box;
+} */
+
+.box2 {
+  width: 200px;
+  height: 100px;
+  padding: 20px;
+  /* padding: 10px 5px  20px 30px; */
+
+  /* padding: 20px 30px; */
+  /* padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px; */
+
+  /* margin: 20px; */
+  /* margin: 10px 30px 30px 20px; */
+  /* margin:10px 30px */
+  /* margin-top: ; */
+  /* margin-bottom */
+  /* margin-right & left */
+
+  /* border:2px solid red  ; */
+  border-width: 5px;
+  border-style: groove;
+  border-color: aquamarine;
+  border-radius: 20px;
+
+  background-color: rgb(18, 16, 15);
+  box-sizing: border-box;
+  color: white;
+}
+
+
+.block-element {
+    display: inline-block;
+    width: 200px;
+    background-color: lightcoral;
+    margin-bottom: 10px;
+}
+
+.inline-element {
+    display: block;
+    width: 400px; /* Won't work as inline elements don’t accept width/height */
+    background-color: lightgreen;
+}
+
+/* inline , block , inline-block */
