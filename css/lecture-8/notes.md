@@ -1,5 +1,3 @@
-
-
 ## 📌 **CSS Positioning Types**
 CSS provides several positioning types that control how elements are placed on the page.
 
