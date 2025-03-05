@@ -1,0 +1,27 @@
+.container{
+    height: 40vh;
+    width: 50vw;
+    border: 1px solid salmon;
+    background-color: lightcoral;
+}
+
+.box{
+    height: 10vh;
+    width:  15vw;
+    border: 1px solid green;
+    background-color: lightgreen;
+
+    /* transition-property: background-color , width , height transform; all */
+    /* transition-duration: 1s;
+    transition-timing-function: cubic-bezier(0, 0.77, 0, 0.93);
+    transition-delay: 1s; */
+    transition: all 1s ease-in-out 1s;
+}
+
+.box:hover{
+    background-color: lightblue;
+    width: 20vw;
+    /* transform:scale(1.2); */
+    /* transform: rotate(90deg); */
+    /* transform: translateX(100px); */
+}
